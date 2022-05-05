@@ -2,3 +2,4 @@ other/*
 slides/*.pptx
 exercises/.ipynb_checkpoints
 sample_solutions/.ipynb_checkpoints
+sample_solutions/__pycache__/
