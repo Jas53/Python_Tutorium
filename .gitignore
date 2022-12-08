@@ -1,5 +1,7 @@
+.DS_Store
 other/*
 slides/*.pptx
 exercises/.ipynb_checkpoints
 sample_solutions/.ipynb_checkpoints
 sample_solutions/__pycache__/
+sample_solutions/.DS_Store
